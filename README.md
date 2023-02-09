@@ -6,6 +6,8 @@ If you like to collaborate with me 👯 on this project, reach out to me on 📫
 
 If LinkedIn goes out, you know where to find me :)
 
+⚡ Fun fact: How many Engineers does it take to change a light bulb ?
+
 <!--
 **navinms07/navinms07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
