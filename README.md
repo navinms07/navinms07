@@ -4,6 +4,8 @@
 
 If you like to collaborate with me 👯 on this project, reach out to me on 📫 <a href="https://www.linkedin.com/in/naveensree/">LinkedIn</a>
 
+If LinkedIn goes out, you know where to find me :)
+
 <!--
 **navinms07/navinms07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
