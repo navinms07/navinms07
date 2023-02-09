@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a super cool inter-galactic project. 
+
+If you like to collaborate with me 👯 on this project, reach out to me on 📫 <a href="https://www.linkedin.com/in/naveensree/">LinkedIn</a>
+
 <!--
 **navinms07/navinms07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
